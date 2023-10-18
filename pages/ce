@@ -1,0 +1,6 @@
+<link rel="stylesheet" href="../styles/styles.css">
+
+<footer class="footer" id="footer">
+        &copy; <span id="year"></span> feito por <a href="https://github.com/alucasb" target="_blank">André Lucas</a>
+    </footer>
+<script src="../scripts/scripts.js"></script>
