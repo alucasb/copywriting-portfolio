@@ -33,3 +33,11 @@ display: block;
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    padding: 15px;
+}
